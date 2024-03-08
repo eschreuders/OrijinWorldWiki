@@ -1,0 +1,256 @@
+{
+  "main": {
+    "id": "a3173a1acdb6ecec",
+    "type": "split",
+    "children": [
+      {
+        "id": "ba02f4fb6bca36ca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3a19760ca9997231",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Manaian Realm/Clergy Manaia/L_Manaia Harbor.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d4eeaf7e8e037a16",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Manaian Realm/Clergy Manaia/L_Clergy Manaia.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a8ab18a517ccfc6d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Manaian Realm/Clergy Manaia/L_Mage Tower.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "739eee4c69dcce0f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Lore/End of the last age of Balance.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ee96aa73180060c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Lore/End of the last age of Balance.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "079b38ede39ca4b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Manaian Realm/Clergy Manaia/P_Nereina Amakiir.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "983422ba10565426",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "_Pantheon/I_Pantheon.png"
+              }
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ebab7813286f2c87",
+    "type": "split",
+    "children": [
+      {
+        "id": "cddc38e1d7b7265e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ef7f5339ffa43617",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a78ff774303127c5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "75e51913521aa6d5",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "aa6901d79d41851d",
+    "type": "split",
+    "children": [
+      {
+        "id": "3bd1ad0dfb455c35",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1dbfa21803d5509c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Manaian Realm/Clergy Manaia/P_Nereina Amakiir.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "98a5864d0dbe2374",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Manaian Realm/Clergy Manaia/P_Nereina Amakiir.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f63e29cce330bfc7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "25084c7e7c351a94",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Manaian Realm/Clergy Manaia/P_Nereina Amakiir.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "079b38ede39ca4b2",
+  "lastOpenFiles": [
+    "Manaian Realm/Clergy Manaia/P_Imavar Amakiir-Im.md",
+    "P_Imavar Amakiir-Im.md",
+    "Manaian Realm/Clergy Manaia/L_Temple of Balance.md",
+    "Manaian Realm/Clergy Manaia/P_Glory Iagwenny.md",
+    "Manaian Realm/Clergy Manaia/P_Andreas Tortris.md",
+    "_Lore/End of the last age of Balance.md",
+    "_Lore/Campaign plot.md",
+    "_Pantheon/G_Ending.md",
+    "_Pantheon/G_Flood.md",
+    "_Pantheon/I_Pantheon.png",
+    "_Pantheon/G_Fluidity.md",
+    "_Pantheon/I_GodScript.png",
+    "_Pantheon/G_The Lost One.md",
+    "_Pantheon/G_Spark.md",
+    "_Pantheon/G_Prosperity.md",
+    "_Pantheon/G_Knowledge.md",
+    "_Pantheon/G_Consistency.md",
+    "_Pantheon/G_Balance.md",
+    "Manaian Realm/Clergy Manaia/P_Nereina Amakiir.md",
+    "().md",
+    "_Lore",
+    "Manaian Realm/Clergy Manaia/L_Mage Tower.md",
+    "Manaian Realm/Clergy Manaia/L_Clergy Manaia.md",
+    "Manaian Realm/Clergy Manaia/L_Manaia Harbor.md",
+    "Manaian Realm/Clergy Manaia/L_Manaian Realm.md",
+    "Confederation of Cernia/Tosh-Manaia Trade Route/P_Malillia Amakiir.md",
+    "Manaian Realm/Clergy Manaia/base m,anaia.png",
+    "Confederation of Cernia/Tosh-Manaia Trade Route/M_ToshManaiaTraderoute.png",
+    "Manaian Realm/Clergy Manaia/L_School of Law and Balance.md",
+    "Confederation of Cernia/Tosh-Manaia Trade Route/P_Angel.md",
+    "Manaian Realm/Clergy Manaia/L_Wood Elves Territory.md",
+    "M_Orijin.png",
+    "Confederation of Cernia/Tosh-Manaia Trade Route/I_Temple of Fluidity.jpg"
+  ]
+}

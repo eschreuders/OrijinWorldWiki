@@ -1,0 +1,217 @@
+{
+  "main": {
+    "id": "a3173a1acdb6ecec",
+    "type": "split",
+    "children": [
+      {
+        "id": "dc6bc467c16be89d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b0d116fcfc20d594",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Pantheon/G_Spark.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ebab7813286f2c87",
+    "type": "split",
+    "children": [
+      {
+        "id": "cddc38e1d7b7265e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ef7f5339ffa43617",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a78ff774303127c5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "75e51913521aa6d5",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "634c77e758411dac",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "aa6901d79d41851d",
+    "type": "split",
+    "children": [
+      {
+        "id": "3bd1ad0dfb455c35",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1dbfa21803d5509c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_Pantheon/G_Spark.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "98a5864d0dbe2374",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_Pantheon/G_Spark.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f63e29cce330bfc7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "25084c7e7c351a94",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_Pantheon/G_Spark.md"
+              }
+            }
+          },
+          {
+            "id": "d17d2d10ea82eff5",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "b0d116fcfc20d594",
+  "lastOpenFiles": [
+    "M_Orijin.png",
+    "Three Sister Kingdom/Stefan_Kingdom of the Three Sisters.md",
+    "Daiannan Council/_Lore_Daiannan_Council.md",
+    "Confederation of Cernia/Stefan_Bulwark of Fahlia.md",
+    "_Pantheon/I_Pantheon.png",
+    "Confederation of Cernia/_Lore_Cernia.md",
+    "Three Sister Kingdom/Three Sister Kingdom.jpg",
+    "Orcish Nomads/Three_Sister_Campaign_Daianna.jpg",
+    "Untitled",
+    "Orcish Nomads/Stefan_Unlienh clan.md",
+    "Orcish Nomads",
+    "M_OrijinDragonLab.png",
+    "_OUD/Worldmap.png",
+    "_Player Characters/PC_Draven.md",
+    "Daiannan Council/Stefan_City of Daianna.md",
+    "_OUD/Kingdom_Cernina.png",
+    "Ashen/_Lore_Ashen.md",
+    "Grey Empire/_Lore_Grey_Empire.md",
+    "Daiannan Council",
+    "Confederation of Cernia/M_Cernia.png",
+    "_Lore/End of the last age of Balance.md",
+    "_Lore/Campaign plot.md",
+    "_Pantheon/G_Prosperity.md",
+    "_Pantheon/G_Time.md",
+    "_Pantheon/G_The Lost One.md",
+    "_Pantheon/G_Spark.md",
+    "_Pantheon/G_Knowledge.md",
+    "_Pantheon/G_Fluidity.md",
+    "_Pantheon/G_Flood.md",
+    "_Pantheon/G_Ending.md",
+    "_Pantheon/G_Current.md",
+    "_Pantheon/G_Consistency.md",
+    "_Pantheon/G_Blood.md",
+    "_Pantheon/G_Balance.md",
+    "_Pantheon/_Lore.md",
+    "Manaian Realm/Clergy Manaia/L_Temple District.md",
+    "Manaian Realm/Royal Family Tree.png",
+    "_Pantheon/I_GodScript.png",
+    "Grey Empire",
+    "_Pantheon/I_Pantheon.png~",
+    "_Pantheon/Pantheon.kra~",
+    "Manaian Realm/Royal Family Tree.kra",
+    "Manaian Realm/Clergy Manaia/ClergyManaia.kra~",
+    "Manaian Realm/Clergy Manaia/ClergyManaia.kra-autosave.kra",
+    "Manaian Realm/Clergy Manaia/ClergyManaia.kra"
+  ]
+}

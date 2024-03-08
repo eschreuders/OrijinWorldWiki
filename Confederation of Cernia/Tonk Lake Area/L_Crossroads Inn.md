@@ -1,0 +1,3 @@
+#location #tonklakearea 
+
+Followers of [Consistency](obsidian://open?vault=World%20Wiki&file=Pantheon%2FG_Consistency) can go on a pilgrimage to [Jinn monastery](obsidian://open?vault=World%20Wiki&file=Confederation%20of%20Cernia%2FTonk%20Lake%20Area%2FL_Jinn%20Monastery). The crossroads inn is the last bit of civilization before the last part of this journey: three weeks of a barefoot walk through lands that become more and more dry and warm.
