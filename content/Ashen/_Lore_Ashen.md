@@ -18,7 +18,7 @@ The Dwarves of [Greywall](../Grey%20Empire/_Lore_Grey_Empire.md) have tasked the
 
 Many mining companies take the risk of being on the Mountain-Side Ashen border, because of the fine ores and gems found in the area. Whatever mines aren’t owned by Dwarven houses, are being exploited by privately-owned mining companies. Competition is fierce and sometimes murderous. Greywall naturally tries to be the main investor.
 
-On the desert side of the land, a few ancient Orc clans remain. They pride themselves with surviving in the harsh conditions and view the dragons as champions of [Blood](../_Pantheon/G_Blood.md). 
+On the desert side, a few ancient Orc clans remain. They pride themselves with surviving in the harsh conditions and view the dragons as champions of [Blood](../_Pantheon/G_Blood.md). 
 
 **Main Gods:** [Blood](../_Pantheon/G_Blood.md), [The Lost One](../_Pantheon/G_The%20Lost%20One.md), [Ending](../_Pantheon/G_Ending.md)
 
